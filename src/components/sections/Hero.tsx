@@ -61,13 +61,13 @@ export function Hero() {
           <div className="flex items-center gap-6 pt-8">
             <span className="text-sm font-semibold text-muted-foreground uppercase tracking-wider">Connect:</span>
             <div className="flex gap-4">
-              <a href="https://github.com" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-white hover:-translate-y-1 transition-all">
+              <a href="https://github.com/abishekbabuofficial" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-white hover:-translate-y-1 transition-all">
                 <FaGithub size={24} />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-[#0A66C2] hover:-translate-y-1 transition-all">
+              <a href="https://www.linkedin.com/in/abishek-babu-career" target="_blank" rel="noreferrer" className="text-muted-foreground hover:text-[#0A66C2] hover:-translate-y-1 transition-all">
                 <FaLinkedin size={24} />
               </a>
-              <a href="mailto:example@gmail.com" className="text-muted-foreground hover:text-red-400 hover:-translate-y-1 transition-all">
+              <a href="mailto:abistudies03@gmail.com" className="text-muted-foreground hover:text-red-400 hover:-translate-y-1 transition-all">
                 <FaEnvelope size={24} />
               </a>
             </div>
@@ -90,7 +90,7 @@ export function Hero() {
             {/* abstract minimalist 3d tech portrait */}
             <div className="absolute inset-[8px] rounded-full overflow-hidden z-20 group">
               <img 
-                src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&h=800&fit=crop" 
+                src="../../../public/profile4.png" 
                 alt="Abishek Babu" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 filter brightness-90 group-hover:brightness-110"
               />
