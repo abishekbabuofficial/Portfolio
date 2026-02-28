@@ -90,7 +90,7 @@ export function Hero() {
             {/* abstract minimalist 3d tech portrait */}
             <div className="absolute inset-[8px] rounded-full overflow-hidden z-20 group">
               <img 
-                src="../../../public/profile4.png" 
+                src="/profile4.png" 
                 alt="Abishek Babu" 
                 className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 filter brightness-90 group-hover:brightness-110"
               />
